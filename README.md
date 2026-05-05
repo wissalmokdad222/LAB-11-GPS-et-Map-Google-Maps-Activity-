@@ -3,9 +3,13 @@
 ##  Pourquoi la carte ne s'affiche pas ?
 
 Si vous lancez l'application et que vous voyez un écran vide ou une grille sans routes
+
 ![](https://github.com/user-attachments/assets/ebb07d46-c403-47f4-bbf6-943cd4f453dc)
+
 c'est probablement dû à l'absence d'une clé API valide ou à la configuration de facturation Google Cloud.
+
 ![](https://github.com/user-attachments/assets/52d82451-b9d9-42b9-a394-e73dc48ddfad)
+
 ![](https://github.com/user-attachments/assets/a7317035-2348-470f-9b26-19b750faab33)
 ### 1. La clé API est obligatoire
 Pour utiliser le SDK Google Maps, vous devez générer une clé API sur la [Console Google Cloud](https://console.cloud.google.com/). 
